@@ -30,8 +30,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/image-to-pdf-tool.git
-
+https://github.com/Aether-1013/image-to-pdf-converter.git
 # 进入项目目录
 cd image-to-pdf-tool
 
@@ -210,7 +209,7 @@ function createPdfDefinition() {
 ### 开发环境
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/image-to-pdf-tool.git](https://github.com/Aether-1013/image-to-pdf-converter.git
+https://github.com/Aether-1013/image-to-pdf-converter.git
 
 # 使用Live Server进行开发
 # VS Code安装Live Server插件后，右键index.html选择"Open with Live Server"
