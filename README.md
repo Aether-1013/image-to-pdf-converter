@@ -226,13 +226,8 @@ https://github.com/Aether-1013/image-to-pdf-converter.git
 - [GitHub](https://github.com) - 提供代码托管服务
 - [VS Code](https://code.visualstudio.com/) - 优秀的代码编辑器
 
-## 📞 联系方式
-
-- **GitHub**: [@Aether-1013](https://github.com/Aether-1013)
-- **项目地址**: [image-to-pdf-converter](https://github.com/Aether-1013/image-to-pdf-converter)
-
 ---
 
-© 2025 Aether-1013 | 芙芙很可爱
+© 2025 Aether-1013 
 
 ⭐ 如果这个项目对您有帮助，请给个Star支持一下！
