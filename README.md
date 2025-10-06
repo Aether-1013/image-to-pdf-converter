@@ -18,7 +18,7 @@
 
 ### 在线使用
 
-1. 访问 [GitHub Pages](https://your-username.github.io/image-to-pdf-converter/)
+1. 访问 [GitHub Pages](https://aether-1013.github.io/image-to-pdf-converter/)
 2. 拖拽或点击上传图片
 3. 设置PDF参数（页面大小、方向、边距）
 4. 点击"生成PDF"按钮
