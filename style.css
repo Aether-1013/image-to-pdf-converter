@@ -317,6 +317,7 @@ main {
     display: flex;
     flex-direction: column;
     gap: 8px;
+    position: relative;
 }
 
 .setting-group label {
@@ -375,7 +376,22 @@ main {
     cursor: pointer;
     font-size: 16px;
     font-weight: 600;
-    transition: var(--transition);
+}
+
+.setting-hint {
+    font-size: 0.8rem;
+    color: var(--text-light);
+    margin-top: -4px;
+    font-style: italic;
+    opacity: 0;
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+}
+
+.setting-hint.show {
+    opacity: 1;
+    transform: translateY(0);
+}    transition: var(--transition);
     display: flex;
     align-items: center;
     gap: 8px;
