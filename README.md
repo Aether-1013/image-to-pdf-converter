@@ -18,7 +18,7 @@
 
 ### 在线使用
 
-1. 访问 [GitHub Pages](https://your-username.github.io/image-to-pdf-tool/)
+1. 访问 [GitHub Pages](https://aether-1013.github.io/image-to-pdf-converter/)
 2. 拖拽或点击上传图片
 3. 设置PDF参数（页面大小、方向、边距）
    - **智能自动方向**：系统会根据每张图片的宽高比自动选择横向或纵向
@@ -36,10 +36,10 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/image-to-pdf-tool.git
+git clone https://github.com/Aether-1013/image-to-pdf-converter.git
 
 # 进入项目目录
-cd image-to-pdf-tool
+cd image-to-pdf-converter
 
 # 使用Python启动HTTP服务器
 python -m http.server 8080
@@ -111,7 +111,7 @@ npx http-server -p 8080
 ## 📁 项目结构
 
 ```
-image-to-pdf-tool/
+image-to-pdf-converter/
 ├── index.html          # 主页面文件
 ├── style.css           # 样式文件
 ├── script.js           # JavaScript逻辑
@@ -216,7 +216,7 @@ function createPdfDefinition() {
 ### 开发环境
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/image-to-pdf-tool.git
+git clone https://github.com/Aether-1013/image-to-pdf-converter.git
 
 # 使用Live Server进行开发
 # VS Code安装Live Server插件后，右键index.html选择"Open with Live Server"
@@ -265,7 +265,7 @@ A clean and elegant online tool that helps you quickly merge multiple images int
 
 ### Online Usage
 
-1. Visit [GitHub Pages](https://your-username.github.io/image-to-pdf-tool/)
+1. Visit [GitHub Pages](https://aether-1013.github.io/image-to-pdf-converter/)
 2. Drag or click to upload images
 3. Set PDF parameters (page size, orientation, margins)
    - **Smart Auto Orientation**: System automatically selects landscape or portrait based on each image's aspect ratio
@@ -282,11 +282,11 @@ A clean and elegant online tool that helps you quickly merge multiple images int
 #### Method 1: Using HTTP Server
 
 ```bash
-# Clone repository
-git clone https://github.com/your-username/image-to-pdf-tool.git
+# Clone project
+git clone https://github.com/Aether-1013/image-to-pdf-converter.git
 
 # Enter project directory
-cd image-to-pdf-tool
+cd image-to-pdf-converter
 
 # Start HTTP server with Python
 python -m http.server 8080
@@ -358,7 +358,7 @@ Since CDN resources are used, you can also directly open the `index.html` file i
 ## 📁 Project Structure
 
 ```
-image-to-pdf-tool/
+image-to-pdf-converter/
 ├── index.html          # Main page file
 ├── style.css           # Style file
 ├── script.js           # JavaScript logic
@@ -463,7 +463,7 @@ Welcome to submit Issues and Pull Requests to improve this project!
 ### Development Environment
 ```bash
 # Clone project
-git clone https://github.com/your-username/image-to-pdf-tool.git
+git clone https://github.com/Aether-1013/image-to-pdf-converter.git
 
 # Use Live Server for development
 # After installing Live Server plugin in VS Code, right-click index.html and select "Open with Live Server"
@@ -483,6 +483,7 @@ This project uses the [MIT License](LICENSE) open source license, you are free t
 
 - **GitHub**: [@Aether-1013](https://github.com/Aether-1013)
 - **Project Address**: [image-to-pdf-converter](https://github.com/Aether-1013/image-to-pdf-converter)
+- **GitHub Pages**: [https://aether-1013.github.io/image-to-pdf-converter/](https://aether-1013.github.io/image-to-pdf-converter/)
 
 ---
 
